@@ -80,7 +80,7 @@ a {
 }
 
     a:hover {
-        color: whitesmoke;
+        color: #f6685b;
         text-decoration: none;
     }
 
@@ -575,7 +575,7 @@ display: inherit;
   text-align: left;
 }
 #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul span.importo {
-  color: #e2001a;
+  color: #f6685b;
   font-size: 1.3em;
 }
 
